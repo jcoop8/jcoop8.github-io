@@ -1,0 +1,34 @@
+
+body{
+	background: #000000;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	color: #ffd700;
+
+}
+.jumbotron{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 62px;
+	font-style: oblique;
+	text-align: left;
+	color: #000000;
+  	background-image: url(http://s29.postimg.org/onsjyodnr/13952804852_cdf9d5a836_k.jpg);
+  	height: 1000px;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+	
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #ffd700;
+}
+li {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    text-transform: uppercase;
+}
